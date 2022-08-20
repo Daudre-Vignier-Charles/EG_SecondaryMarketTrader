@@ -1,0 +1,12 @@
+setup:
+    apt install python-gobject libnotify-bin libnotify-dev
+    pip3 install playsound
+    
+config, you must edit:
+    config_logins.py
+    config_filters.py
+ 
+ 
+ 
+Dev notes:
+Add to kart : ajaxSelectSMItemToBasket('017e9710-0158-404f-a2f1-3fec59d47410', '89073')
